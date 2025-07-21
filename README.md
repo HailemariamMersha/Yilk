@@ -1,7 +1,7 @@
 # Yilk
 ## *"Before You Spend... Yilk It."*
 
-### Alternative Slogan: *"Is it worth it? Yilk it."*
+
 
 ---
 
@@ -111,57 +111,10 @@ Auto-detects prices on product pages and activates Yilk comparison popup.
 - **AI/ML**: OpenAI API for purchase analysis
 - **Extension**: Chrome Extension APIs + Content Scripts
 
----
-
-## 📈 Development Roadmap
-
-| Priority | Feature | Timeline |
-|----------|---------|----------|
-| 🥇 | Money Comparison Engine | Week 1-2 (MVP) |
-| 🥈 | Waitlist/Form Integration | Week 1 |
-| 🥉 | Purchase Worth Rating | Week 2-3 |
-| 🔥 | Impulse Buy Alerts | Week 3-4 |
-| 🚧 | Yilk Review Feed | Month 2 |
-| 🧪 | Chrome Extension | Month 3+ |
-| 🌍 | Localization Engine | Ongoing (v2.0) |
-
----
-
-## 🎨 Current Implementation
-
-This repository contains the landing page for Yilk with:
-- ✅ Responsive design with gradient background
-- ✅ Typewriter animation showcasing key messaging
-- ✅ Feature preview cards
-- ✅ Integrated waitlist signup
-- ✅ Mobile-optimized layout
-- ✅ Favicon and branding elements
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/Yilk.git
-   cd Yilk
-   ```
-
-2. **Open in browser**
-   ```bash
-   open index.html
-   ```
-
-3. **Customize**
-   - Replace `logo.png` with your actual logo
-   - Update contact information
-   - Modify feature descriptions as needed
-
----
 
 ## 📞 Contact
 
-**Website**: [Yilk Landing Page](https://your-domain.com)  
+**Website**: [Yilk Landing Page](https://yilk.me)  
 **Email**: customer.support@yilk.com  
 **Waitlist**: [Join Early Access](https://forms.gle/x1MtQjJwdLuCn7cq9)
 
