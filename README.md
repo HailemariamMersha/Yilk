@@ -115,7 +115,7 @@ Auto-detects prices on product pages and activates Yilk comparison popup.
 ## 📞 Contact
 
 **Website**: [Yilk Landing Page](https://yilk.me)  
-**Email**: customer.support@yilk.com  
+**Email**: customer.support@yilk.me  
 **Waitlist**: [Join Early Access](https://forms.gle/x1MtQjJwdLuCn7cq9)
 
 ---
